@@ -12,7 +12,7 @@ const $input = $("#city");
 const $submit = $("#button");
 const $destination = $("#destination");
 const $container = $(".container");
-const $venueDivs = [$("#venue1"), $("#venue2"), $("#venue3"), $("#venue4")];
+const $venueDivs = [$("#venue1"), $("#venue2"), $("#venue3"), $("#venue4"), $("#venue5"), $("#venue6"), $("#venue7")];
 const $weatherDiv = $("#weather1");
 const weekDays = [
   "Sunday",
