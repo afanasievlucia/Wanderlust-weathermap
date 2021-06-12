@@ -1,0 +1,2 @@
+# Wanderlust-weathermap
+GET- request
